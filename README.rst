@@ -42,13 +42,13 @@ Contributing
 
 Please see the `Development section of the docs <https://radware-docker.readthedocs.io/en/latest/development.html>`_.
 
-.. |License| image:: https://img.shields.io/github/license/casnich/honours.svg
-    :target: https://github.com/casnich/honours/blob/master/LICENSE
+.. |License| image:: https://img.shields.io/github/license/casnich/docker-radware.svg
+    :target: https://github.com/casnich/docker-radware/blob/master/LICENSE
 .. |Docs| image:: https://readthedocs.org/projects/radware-docker/badge/?version=latest
     :target: https://radware-docker.readthedocs.io/en/latest/
-.. |Build Status| image:: https://travis-ci.com/casnich/honours.svg?branch=master
-    :target: https://travis-ci.com/casnich/honours
-.. |Contributors| image:: https://img.shields.io/github/contributors/casnich/honours.svg
-.. |Last Commit| image:: https://img.shields.io/github/last-commit/casnich/honours.svg
-    :target: https://github.com/casnich/honours/commits/master
-.. |Commits Since Last Release| image:: https://img.shields.io/github/commits-since/casnich/honours/latest.svg
+.. |Build Status| image:: https://travis-ci.com/casnich/docker-radware.svg?branch=master
+    :target: https://travis-ci.com/casnich/docker-radware
+.. |Contributors| image:: https://img.shields.io/github/contributors/casnich/docker-radware.svg
+.. |Last Commit| image:: https://img.shields.io/github/last-commit/casnich/docker-radware.svg
+    :target: https://github.com/casnich/docker-radware/commits/master
+.. |Commits Since Last Release| image:: https://img.shields.io/github/commits-since/casnich/docker-radware/latest.svg
